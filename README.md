@@ -1,6 +1,0 @@
-# -LoanTap-Case-Study-Logistic-Regression-
-LoanTap is an online platform committed to delivering customized loan products to millennials. They innovate in an otherwise dull loan segment, to deliver instant, flexible loans on consumer friendly terms to salaried professionals and businessmen. 
-
-Problem Statement: Given a set of attributes for an Individual, determine if a credit line should be extended to them. If so, what should the repayment terms be in business recommendations?
-
-Approach: Review the dataset provided by LoanTap, examining attributes such as age, income, employment status, and credit score. Employ machine learning algorithms like logistic regression or random forest to build a predictive model for determining creditworthiness based on the identified attributes. Assess the model's performance using metrics like accuracy, precision, recall, and F1-score through cross-validation. For creditworthy individuals, propose appropriate repayment terms including loan amount, interest rate, and tenure based on their risk profile and financial capacity. Integrate the developed predictive model into LoanTap's existing system to automate credit evaluation and streamline the loan approval process, enhancing customer experience and minimizing default risks.
